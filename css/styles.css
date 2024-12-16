@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+}
+div {
+    background-color: red;
+}
+p {
+    background-color: yellow;;
+}
+#cat {
+    background-color: aqua;
+}

@@ -1,0 +1,14 @@
+div {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding: 30px;
+    border: 10px solid red;
+    margin: 200;
+}
+
+button {
+    background-color: aqua;
+}
+
